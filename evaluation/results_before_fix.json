@@ -1,0 +1,434 @@
+{
+  "summary": {
+    "baseline": {
+      "questions": 21,
+      "answers_in_scope_%": 100,
+      "refuses_out_of_scope_%": 0,
+      "retrieval_hit_%": null,
+      "valid_citations_%": null,
+      "supported_by_sources_%": 0
+    },
+    "rag": {
+      "questions": 21,
+      "answers_in_scope_%": 87,
+      "refuses_out_of_scope_%": 100,
+      "retrieval_hit_%": 83,
+      "valid_citations_%": 71,
+      "supported_by_sources_%": 54
+    }
+  },
+  "rows": [
+    {
+      "id": 1,
+      "type": "in_corpus",
+      "mode": "rag",
+      "abstained": false,
+      "answer": "In my own words I have repeatedly contrasted an “open society” with what I called a “closed society” – the latter being one in which the mass media are reduced to a “constant drone of sycophantic support for a particular orthodox political philosophy”【S2】. I argued that Singapore’s institutions were deliberately designed to avoid that closed‑society drift, insisting that “the fabric of a democratic society … allows for the free play of ideas … within the constitutional framework”【S2】.  \n\nNevertheless, I have also warned that “repression can only go up to a point” and that unchecked coercion would eventually turn the instruments of the state against its masters【S2】. In practice, I have maintained that open debate must be managed so that it does not destabilise the nation; the government therefore regulates media and public discourse to keep the debate “within the constitutional framework” while still permitting “novel, unorthodox … ideas” to be aired【S2】.  \n\nObservers note that this approach has led some to describe Singapore as “semi‑authoritarian” or a “nanny state,” reflecting the tension between the desire for open debate and the pragmatic limits I have set on it【S3】.",
+      "correct_abstain": true,
+      "hit": true,
+      "citations_ok": false,
+      "supported": false
+    },
+    {
+      "id": 1,
+      "type": "in_corpus",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "I have always been asked whether Singapore is an “open” or a “closed” society, and the answer, if you wish to be precise, is that it is both – and that the balance between the two has been the very engine of our success.\n\nWhen I speak of openness, I refer first and foremost to the openness of our economy. From the moment we opened our ports in the early 1960s, we invited foreign capital, technology and talent to come in, we built world‑class infrastructure, we cultivated a legal system that is transparent and predictable, and we have allowed our people to enjoy a standard of living that few could have imagined for a tiny island with no natural resources. In that sense Singapore is as open as any city‑state can be.\n\nPolitically, however, we have taken a different, more measured line. A society that is truly open in the Western sense – where any and every view can be aired at any time, where the loudest voice invariably wins, where the market of ideas is left to its own devices – is not always compatible with the realities of a multi‑racial, multi‑religious community that is only a few million strong. Our priority has always been to preserve social cohesion, to prevent the kind of sectarian strife that has plagued many larger nations. To that end we have set clear boundaries on public discourse: speech that incites racial or religious hatred, that threatens public order, or that undermines the very institutions that keep our society stable, is not tolerated.\n\nThat does not mean that debate is absent. On the contrary, I have always encouraged vigorous discussion within the parameters of responsibility. Ministers are expected to be questioned in Parliament; civil servants are urged to offer dissenting views in private; academics and journalists enjoy a degree of freedom that is uncommon in many of our neighbours. The key is that the debate occurs in a manner that is constructive, fact‑based, and respectful of the social compact we have all signed.\n\nOpen debate, in my view, is a tool – not an end in itself. It is valuable when it improves policy, sharpens our institutions, and helps us adapt to new challenges. It becomes counter‑productive when it devolves into partisan bickering, populist pandering, or the spread of misinformation that can erode trust among our peoples. Therefore, we have cultivated a culture where ideas are aired, but where the ultimate decision‑making rests on merit, long‑term vision, and the collective good.\n\nIn short, Singapore is open where openness serves the national interest – in trade, in education, in the free flow of capital and talent – and it is prudently circumscribed where unbridled freedom could jeopardise the fragile harmony that underpins our success. Open debate thrives within those limits, and it is precisely that calibrated openness that has allowed us to transform a small, resource‑poor island into a thriving, modern nation.",
+      "correct_abstain": true,
+      "supported": false
+    },
+    {
+      "id": 2,
+      "type": "in_corpus",
+      "mode": "rag",
+      "abstained": false,
+      "answer": "In my view, a fledgling nation cannot afford a press that merely critiques for its own sake. The mass media should act as a conduit that “present[s] Singapore’s problems simply and clearly and then explain how, if they support certain programmes and policies, these problems can be solved” [S1]. Its chief task is to reinforce the cultural values and social attitudes that our schools and universities are inculcating, not to undermine them [S1]. Consequently, freedom of the press must be “subordinated to the overriding needs of the integrity of Singapore, and to the primacy of purpose of an elected government” [S1]. We may allow foreign journalists to report facts, but we will not permit them to become “invigilator, adversary and inquisitor of the administration” as they might be elsewhere [S3]. In short, the media’s role is to educate, support and legitimize the nation‑building agenda, while remaining aligned with the government’s overarching objectives.",
+      "correct_abstain": true,
+      "hit": true,
+      "citations_ok": true,
+      "supported": false
+    },
+    {
+      "id": 2,
+      "type": "in_corpus",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "In my experience, the mass media is not a luxury for a fledgling nation; it is a cornerstone of nation‑building. When I set out to transform Singapore from a struggling port into a thriving metropolis, I learned that the press must serve three essential purposes.\n\n**1. Convey a clear, coherent national narrative.**  \nA new country is, by definition, a work in progress. Its people need to understand where we are headed, why we are taking certain steps, and what sacrifices may be required. The media should articulate the government’s vision in a way that is honest yet purposeful, so that citizens can rally behind a common goal rather than be swayed by rumors or foreign propaganda.\n\n**2. Promote responsible citizenship and social cohesion.**  \nDiversity is a strength, but it can also be a source of division if left unchecked. The press must highlight stories that bind us—our shared values, our collective achievements, and the challenges we face together. At the same time, it should discourage sensationalism that pits one community against another. In Singapore we instituted a “social responsibility” clause for broadcasters; a new nation would do well to adopt a similar principle, encouraging journalists to think of the long‑term health of the polity rather than short‑term headlines.\n\n**3. Serve as a constructive check on power, within limits.**  \nA free press is indispensable for accountability, but freedom without responsibility can become anarchy. The media should be free to expose genuine corruption, inefficiency, or abuse, but it must also respect the delicate balance of a young state that is still consolidating its institutions. In practice this means a regulatory framework that protects editorial independence while preventing the spread of falsehoods that could destabilise the nation.\n\nIn short, the mass media in a new country should be a disciplined partner of the state: a conduit for the national story, a promoter of unity, and a vigilant yet prudent watchdog. When these roles are fulfilled, the press becomes an engine of progress rather than a source of discord.",
+      "correct_abstain": true,
+      "supported": false
+    },
+    {
+      "id": 3,
+      "type": "in_corpus",
+      "mode": "rag",
+      "abstained": false,
+      "answer": "When I said “the cure for all this talk is really a good dose of incompetent government,” I was warning that an opposition‑led or poorly run administration would be a self‑inflicted remedy for the criticism we hear. In my view, an incompetent government would quickly unravel Singapore’s hard‑won stability – “you’ll never put Singapore together again, Humpty Dumpty cannot be put together again” – and the resulting chaos would be far worse than any political debate we face【S1】. In short, I meant that the alternative to strong, capable governance is not merely undesirable but potentially catastrophic for our nation’s prosperity and social order【S2】.",
+      "correct_abstain": true,
+      "hit": true,
+      "citations_ok": false,
+      "supported": false
+    },
+    {
+      "id": 3,
+      "type": "in_corpus",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "When I said that a government needs “a good dose of incompetence,” I was not praising mediocrity for its own sake. I was pointing to a practical reality that I observed while building Singapore from a tiny port city into a thriving nation‑state.\n\nIn the early 1960s we were faced with a choice. We could either create a bureaucracy that believed it could solve every problem perfectly, or we could accept that the machinery of government would, inevitably, make mistakes, over‑reach, and become complacent. The former path, I have always warned, leads to a leviathan that thinks it is infallible; the latter, if managed wisely, keeps the state humble and vigilant.\n\nA “good dose of incompetence” therefore means:\n\n1. **Built‑in humility.** When officials know that they are not omniscient, they are more likely to listen to dissenting voices, to seek expert advice, and to test policies on a small scale before rolling them out nationwide. In Singapore we instituted pilot projects, trial runs, and rigorous post‑mortems precisely because we accepted that we would get some things wrong.\n\n2. **Checks on power.** If a government believes it can do everything flawlessly, it tends to concentrate authority and suppress criticism. A modest amount of failure forces the system to develop safeguards—parliamentary oversight, an independent civil service, a free press—so that errors are exposed and corrected.\n\n3. **Motivation for improvement.** When a ministry’s programme flops, the embarrassment spurs reform. We learned, for instance, that the early attempts at public housing allocation were riddled with inefficiencies; the resulting public outcry pushed us to create the Housing Development Board, which later became a model of effectiveness.\n\n4. **Public confidence through transparency.** Singaporeans have always been told that the government is not a deity but a servant. By openly acknowledging mistakes—whether in the 1975 water crisis or the 1997 Asian financial turbulence—we earned a degree of trust that could not have been achieved by a façade of perfection.\n\nLet me be clear: the “dose” must be modest, never so large that the state becomes a disaster. The goal is a government that is competent enough to deliver essential services—clean water, safe housing, reliable transport—while remaining aware of its own limits. In that balance lies the resilience that has allowed Singapore to survive wars, economic shocks, and social upheavals.\n\nSo, when I invoked the phrase, I was urging leaders to cultivate a culture where competence is prized, but where a little measured incompetence is tolerated as a catalyst for vigilance, reform, and ultimately, better governance.",
+      "correct_abstain": true,
+      "supported": false
+    },
+    {
+      "id": 4,
+      "type": "in_corpus",
+      "mode": "rag",
+      "abstained": false,
+      "answer": "Singapore’s exit was not a voluntary “choice” but the result of a political and communal impasse that made the union untenable.  After independence from Britain we entered the Malaysian federation, yet the PAP, which governed Singapore, became an opposition party at the federal level while UM UMNO, which led the federal government, began contesting seats in Singapore.  This breached an unspoken understanding about each side’s sphere of influence and provoked a sharp clash between myself and Prime Minister Tunku Abdul Rahman, escalating into a crisis that forced the Tunku to demand Singapore’s expulsion on 9 August 1965 [S1].  \n\nIn the final days, I recognised that we could not realise the multiracial integration that Malaysia required; the racial tensions and the prospect of further bloodshed left me with no alternative but to sign the separation agreement, a moment I later described as “a moment of anguish” because my lifelong belief in merger had to be abandoned [S3].  \n\nThus Singapore left Malaysia because the PAP‑UMNO rivalry, the breach of the tacit seat‑sharing pact, and the failure to achieve a workable multiracial federation made separation the only viable path.",
+      "correct_abstain": true,
+      "hit": false,
+      "citations_ok": true,
+      "supported": true
+    },
+    {
+      "id": 4,
+      "type": "in_corpus",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "I remember very clearly why Singapore’s union with Malaysia proved untenable and why, in August 1965, we were compelled to part ways.\n\nWhen we entered the Federation in 1963, the idea was that a united Malaya, Singapore, Sabah and Sarawak would combine our complementary strengths—our industrious people, our strategic location, and the resources of the peninsula—to create a stronger, more prosperous nation. The political leadership of the People’s Action Party (PAP) and the United Malays National Organisation (UMNO) believed we could work together, each respecting the other’s community and interests.\n\nIn practice, however, three fundamental fault lines emerged:\n\n1. **Communal Politics and the Question of Race**  \n   The PAP’s vision of a multiracial, merit‑based society clashed with UMNO’s insistence on a Malay‑centric “social contract” that privileged the Bumiputera. Our calls for a “Malaysian Malaysia”—a nation where all citizens, regardless of race, would enjoy equal rights—were perceived as a threat to the political safeguards that UMNO had secured for the Malays. This ideological rift inflamed communal tensions, culminating in the race riots of July 1964, which made it painfully clear that the two sides could not reconcile their divergent visions of nationhood.\n\n2. **Economic Divergence**  \n   Singapore’s economy was already oriented toward trade, finance and manufacturing, while the Federation’s economy was still largely agrarian and protectionist. We sought a common market and free movement of labour and capital, but Kuala Lumpur’s policies favoured import controls and tariffs that disadvantaged Singapore’s exporters. The resulting economic friction made it impossible for Singapore to thrive within the Federation’s framework.\n\n3. **Political Power Struggle**  \n   The PAP’s rapid electoral successes in the 1963 state elections—winning 13 of 21 seats in Singapore—were viewed with suspicion by the federal government, which feared that our growing influence would upset the delicate balance of power. The ensuing confrontations in the Federal Parliament, the mutual accusations of subversion, and the refusal to compromise on key policy matters left us at an impasse.\n\nBy mid‑1965 it became evident that the union was a source of constant crisis rather than a platform for shared progress. I was faced with a stark choice: continue a partnership that threatened both communal harmony and economic development, or accept separation and chart an independent course for Singapore.\n\nWhen the Malaysian Parliament voted on 9 August 1965 to amend the Constitution and withdraw Singapore from the Federation, I felt a profound sense of loss, but also a resolute determination. I addressed the nation on 12 August, saying, “We have indeed been given a great opportunity to prove that a small nation can survive and thrive on its own.” The separation was not a surrender; it was a pragmatic decision to preserve peace, protect our people, and give Singapore the freedom to pursue its own destiny.\n\nThus, Singapore left Malaysia because the political, racial, and economic disagreements were irreconcilable within the framework of the Federation, and because we recognised that only an independent Singapore could guarantee stability, prosperity and the equal treatment of all its citizens.",
+      "correct_abstain": true,
+      "supported": false
+    },
+    {
+      "id": 5,
+      "type": "in_corpus",
+      "mode": "rag",
+      "abstained": false,
+      "answer": "I believe a nation must treat its people as the essential foundation of its competitiveness, shaping policies to fit their particular character rather than copying foreign models wholesale.  As I have said, “what people mean by consultation is an imitation of what they see in America… an unthinking adoption of Western practices… without any pruning and modification to suit our circumstances” [S1].  Consequently, the government must retain a pragmatic, sometimes paternalistic, stance – what critics call a “nanny state” – to preserve order and drive performance [S4].  \n\nWhen external talent is needed, it should **complement**, not replace, the resident workforce: “the current overall foreign workforce should complement the Singaporean Core concept, and not replace… the Singaporean Core” [S2].  This safeguards social cohesion while allowing productivity gains.  \n\nFinally, in a multiracial society, the state must be vigilant about loyalty and integration, ensuring that security forces reflect reliable backgrounds to avoid tragedy [S4].  In sum, a country should view its people as the core asset, adapt foreign ideas to local realities, and exercise firm, results‑oriented governance to stay competitive.",
+      "correct_abstain": true,
+      "hit": false,
+      "citations_ok": true,
+      "supported": true
+    },
+    {
+      "id": 5,
+      "type": "in_corpus",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "When a nation looks outward and measures itself against its peers, the first and most important yardstick must be its own people. I have always said that a country’s strength lies not in its geography or its natural resources, but in the quality of its citizens – their skills, their character, and their commitment to the collective good.\n\n**1. Invest in Human Capital, Not Just Infrastructure**  \nWe built Singapore’s ports, airports and skyscrapers, but we did not stop there. We poured resources into education, health and lifelong learning so that every Singaporean could become a productive, adaptable worker. In a competitive world, a well‑educated, healthy, and continuously up‑skilling populace is the decisive advantage.\n\n**2. Align Individual Aspirations with National Goals**  \nPeople must see that their personal success is tied to the nation’s success. We cultivated a meritocratic system where talent is recognised and rewarded, regardless of background. When citizens understand that their hard work contributes to a rising tide that lifts all, they willingly accept the discipline and sacrifice that competition demands.\n\n**3. Foster Social Cohesion and a Shared Identity**  \nA divided society cannot marshal its resources effectively. We forged a Singaporean identity that transcended race, language and religion, emphasizing common values such as integrity, hard work and respect for the rule of law. Unity does not mean uniformity; it means a shared commitment to the nation’s long‑term survival.\n\n**4. Expect Discipline and Responsibility**  \nCompetition is relentless; there is no room for complacency. The state must set clear expectations, enforce them fairly, and hold individuals accountable. At the same time, the state must protect its people from the excesses of market forces – providing a safety net that prevents desperation from eroding social order.\n\n**5. Look Beyond Short‑Term Populism**  \nPolicy must be guided by foresight, not by the whims of the moment. We resisted the temptation to pander to immediate popular demands that would undermine future competitiveness. Instead, we made tough decisions – such as compulsory national service and strict urban planning – because they served the long‑term interest of the people.\n\n**6. Use Competition as a Catalyst, Not a Threat**  \nWhen we compete with other countries, we should view it as a stimulus to improve, not as a zero‑sum battle. By benchmarking our education system against the best, by inviting foreign talent while nurturing homegrown expertise, we raise our own standards. The people become the engine that turns external pressure into internal innovation.\n\nIn sum, a country must regard its people as both the foundation and the engine of national competitiveness. By investing in them, aligning their aspirations with the nation’s, ensuring they are united and disciplined, and by steering policy with long‑term vision, a state can not only survive the global contest but thrive within it. That is the lesson I learned while building Singapore, and it remains the guiding principle for any nation that wishes to compete on the world stage.",
+      "correct_abstain": true,
+      "supported": false
+    },
+    {
+      "id": 6,
+      "type": "in_corpus",
+      "mode": "rag",
+      "abstained": false,
+      "answer": "I have always regarded the need for clear, enforceable rules on public behaviour as essential to Singapore’s stability and progress.  I once said, “If Singapore is a nanny state, then I am proud to have fostered one,” reflecting my belief that a strong, guiding hand is justified when it protects social harmony and economic development【S2】.  Measures such as bans on chewing gum or restrictions on speech and assembly are, in my view, pragmatic tools—not arbitrary oppression—to prevent disorder and to keep the multiracial, multi‑religious society functioning smoothly【S3】.  Critics may label these policies “draconian,” but I maintain that they are necessary safeguards, not whims of power.",
+      "correct_abstain": true,
+      "hit": true,
+      "citations_ok": false,
+      "supported": true
+    },
+    {
+      "id": 6,
+      "type": "in_corpus",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "I have always believed that a nation’s progress is inseparable from the habits of its people and the rules that govern public behaviour. When I first set foot in the fledgling city‑state, I saw a society that was, in many respects, still bound by the old colonial legacy—fragmented, disorderly, and lacking a shared sense of purpose. If we were to transform Singapore into a modern, prosperous nation, we had to start with the very fabric of daily life.\n\nFirst, the rule of law must be clear, consistent and, above all, respected. A law that is applied arbitrarily breeds cynicism; a law that is ignored erodes authority. Hence we introduced regulations that were simple enough for every citizen to understand—no littering, no smoking in public places, no spitting on the streets. These may appear trivial, but they are the building blocks of a disciplined society. When a child learns to keep the environment clean, that habit extends to the workplace, to the classroom, to the boardroom.\n\nSecond, public behaviour is a reflection of collective values. In the early years we instituted the “Clean and Green” campaign, the ban on chewing gum, the strict enforcement of traffic rules, and the mandatory National Service. Each of these measures was not a caprice of the government but a deliberate attempt to inculcate responsibility, punctuality, and respect for one another. The result, over time, has been a city where you can walk from one end of the island to the other without fearing danger, where the streets are safe, and where the public transport system runs like clockwork.\n\nThird, habits are not imposed; they are cultivated. We invested heavily in education, not merely to produce engineers and accountants, but to shape a mindset that values hard work, meritocracy, and self‑discipline. The school system taught students to queue, to listen, to follow instructions—behaviours that later translated into a workforce that could execute complex projects with precision.\n\nCritics sometimes called these measures “over‑regulation” or “authoritarian.” I would say that the price of order is modest, but the price of chaos is far greater. A society that tolerates disorder in the streets will soon tolerate disorder in the markets, in the courts, and ultimately in the governance of the nation. The modest inconveniences of a fine for littering or a ban on certain activities are a small sacrifice for the collective benefit of safety, cleanliness, and economic stability.\n\nIn short, I have always thought that rules on public behaviour and the habits they engender are the scaffolding upon which a nation builds its future. By setting high standards, enforcing them fairly, and nurturing the corresponding habits from a young age, we have turned Singapore from a modest port into a global hub—clean, efficient, and respected. The discipline of the citizenry is, in my view, the most valuable asset any government can possess.",
+      "correct_abstain": true,
+      "supported": false
+    },
+    {
+      "id": 7,
+      "type": "in_corpus",
+      "mode": "rag",
+      "abstained": true,
+      "answer": "[NO SOURCE] The material provided does not contain any of Lee Kuan Yew’s statements specifically addressing whether foreign human‑rights critics are “out to harm” Singapore. The passages do mention his remarks on opposition parties and on human‑rights groups in general, but they do not give his view on the motives of foreign critics. Consequently I cannot answer the question from the supplied sources.",
+      "correct_abstain": false,
+      "hit": true,
+      "citations_ok": true
+    },
+    {
+      "id": 7,
+      "type": "in_corpus",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "I have always believed that a nation must be judged by the results it delivers to its people, not by the slogans that are shouted from abroad. Singapore’s story is one of transformation—from a struggling port city to a thriving, modern economy that provides security, education, health and a high standard of living for the majority of its citizens. That achievement did not come by accident; it required difficult choices, firm governance and an unwavering focus on the collective good.\n\nIt would be naïve to think that every foreign commentator who raises the banner of “human rights” does so out of pure altruism. Many of them are driven by ideological agendas, geopolitical calculations or even a desire to see a small, successful state like ours falter. Their criticisms are often couched in the language of liberty, yet they overlook the context in which Singapore operates: a multi‑ethnic, multi‑religious society that has, for decades, avoided the ethnic strife and social unrest that have plagued many larger neighbours.\n\nThat is not to say that we are immune to legitimate concerns. Governance, however, must be pragmatic. We have always been willing to listen, to adjust policies when they prove counter‑productive, and to improve the lives of our people. But we will not be swayed by external pressure that seeks to impose a one‑size‑fits‑all model of rights, especially when such a model would jeopardise the stability and progress we have painstakingly built.\n\nIn short, I view many foreign critics as having motives that extend beyond genuine concern for Singaporeans. Their pronouncements may be loud, but the measure of any nation remains the well‑being of its citizens—a metric in which Singapore continues to excel. We will, of course, remain vigilant and open to constructive dialogue, but we will not allow external censure to derail the path we have chosen for our country.",
+      "correct_abstain": true,
+      "supported": false
+    },
+    {
+      "id": 8,
+      "type": "in_corpus",
+      "mode": "rag",
+      "abstained": false,
+      "answer": "Going into the 1968 election I was certain we would win overwhelmingly. I recalled that when the British announced their withdrawal I “immediately held an election… I knew the people will be dead scared, and I won my bet big‑time”【S1】. The result confirmed that confidence: the PAP secured roughly 84 % of the vote, often reported as an 88 % landslide【S1】.",
+      "correct_abstain": true,
+      "hit": true,
+      "citations_ok": false,
+      "supported": true
+    },
+    {
+      "id": 8,
+      "type": "in_corpus",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "I went into the 1968 general election with a confidence that was not the product of hubris but of hard‑won experience. By then we had already endured the turbulence of self‑government, the trauma of merger and separation, and the bitter lessons of the 1963 and 1965 crises. We had built a fledgling civil service, begun to lay the foundations of a modern economy, and, most importantly, we had earned the trust of a people who were weary of chaos and eager for stability.\n\nThat confidence was, of course, tempered by a sober awareness of the responsibilities that lay ahead. We knew that a mandate, however large, would not be a licence to rest; it would be a call to deliver on the promises of housing, education, health and, above all, a secure future for every Singaporean.\n\nThe result was, in the end, a decisive vindication of that confidence. The People’s Action Party won every single seat in the Legislative Assembly—58 out of 58. The opposition, having boycotted the poll, left us with a clear, unambiguous mandate to press on with our programme of nation‑building. It was a humbling reminder that the trust placed in us was total, and it reinforced my resolve to work tirelessly, without complacency, to transform a small, resource‑poor island into a prosperous, orderly society.",
+      "correct_abstain": true,
+      "supported": false
+    },
+    {
+      "id": 9,
+      "type": "in_corpus",
+      "mode": "rag",
+      "abstained": false,
+      "answer": "The government tackled the housing shortage by launching massive public‑housing programmes through the Housing Development Board. Within the first two years we built about 25,000 apartments, providing cheap, affordable flats that could replace the unsafe squatter settlements [S1][S2]. By resettling squatters into these HDB units we eliminated fire‑hazardous, poorly constructed shanties and reduced crime and disease associated with the slums [S1][S2]. The rapid construction, large budget allocations and a determination to cut red tape allowed the majority of the population to be housed in HDB flats within a decade [S1][S2].",
+      "correct_abstain": true,
+      "hit": true,
+      "citations_ok": true,
+      "supported": true
+    },
+    {
+      "id": 9,
+      "type": "in_corpus",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "When I look back at those early years after independence, the question of shelter was not merely a matter of bricks and mortar; it was the very foundation of nation‑building. Singapore was a city of cramped kampongs, shantytowns and makeshift dwellings where the majority of our people lived in precarious conditions. The government could not afford to wait for the market to provide decent homes – we had to create a system that would lift the entire population out of squalor, give them a stake in the country, and at the same time free up land for industry and commerce.\n\n**1. The creation of a dedicated agency – the Housing Development Board (HDB)**  \nIn 1960 we established the HDB as a single, powerful agency answerable directly to the Prime Minister’s Office. Its mandate was clear: to plan, design, finance, construct and allocate public housing on a massive scale. By concentrating authority in one body we avoided the fragmentation that had plagued previous attempts at urban renewal.\n\n**2. Land acquisition and town planning**  \nThe Land Acquisition Act gave the state the power to acquire land compulsorily, with fair compensation, for public purposes. We identified large tracts of land occupied by kampongs and squatters, cleared them, and laid out new towns according to a master plan that integrated residential blocks, schools, markets, transport links and green spaces. The new towns – Toa Payoh, Ang Mo Kio, Bedok, Jurong, among others – were not merely collections of flats; they were self‑contained communities designed to foster social cohesion.\n\n**3. The “self‑help” construction model**  \nResources were scarce, so we adopted a pragmatic “self‑help” approach. Future residents were invited to participate in the construction of their own blocks – a modest amount of labour, under professional supervision, in exchange for a reduced purchase price. This not only cut costs but also gave people a sense of ownership and pride in their new homes.\n\n**4. Financing and the lease‑hold system**  \nWe introduced a 99‑year lease‑hold system, which allowed the state to retain ultimate ownership of the land while granting occupants a long‑term, secure tenure. To make the flats affordable, the government subsidised a substantial portion of the construction cost and offered generous mortgage terms through the Central Provident Fund (CPF). By the mid‑1970s more than half of Singapore’s households were living in HDB flats, and by the early 1990s the figure exceeded 80 %.\n\n**5. Resettlement of squatters**  \nThe resettlement process was carried out in stages. First, we offered squatters temporary rehousing in “transitional” flats while their permanent units were being built. Then, once the new blocks were ready, families were allocated flats based on a transparent points system that took into account family size, income and need. The promise of a modern, well‑ventilated flat with running water, electricity and a proper address was a powerful incentive for people to leave the kampongs voluntarily. Where resistance persisted, the law – exercised judiciously – ensured that the relocation proceeded without undue delay, always with compensation and the guarantee of a better home.\n\n**6. Home ownership as a nation‑building tool**  \nWe believed that a citizen who owns his home is more likely to be a responsible, invested member of society. Hence, home ownership was promoted not as a charity but as a right and a duty. The policy of “home ownership for all” created a broad middle class, reduced social tensions, and gave Singaporeans a tangible stake in the nation’s future.\n\nIn sum, the government housed ordinary citizens and resettled squatters by establishing a powerful, centrally‑coordinated housing authority; by acquiring land and planning new towns; by employing a cost‑effective self‑help construction model; by providing affordable lease‑hold flats financed through the CPF; and by ensuring that every family had a clear, fair pathway from a kampong to a modern home. It was a deliberate, disciplined effort, and it remains one of the most enduring pillars of Singapore’s success.",
+      "correct_abstain": true,
+      "supported": false
+    },
+    {
+      "id": 10,
+      "type": "in_corpus",
+      "mode": "rag",
+      "abstained": false,
+      "answer": "The PAP articulated five “shared values” to mould a common Singaporean identity:  \n\n1. **Nation before community and society above self** – placing the collective interest ahead of narrow group or personal gain.  \n2. **Family as the basic unit of society** – recognising the family’s central role in social stability.  \n3. **Regard and community support for the individual** – ensuring that society looks after each person.  \n4. **Consensus instead of contention** – encouraging agreement and cooperative decision‑making.  \n5. **Racial and religious harmony** – safeguarding peaceful coexistence among all faiths and ethnicities.  \n\nThese values were set out in the PAP’s white paper on “Shared Values” to counter more individualistic, Western‑oriented outlooks and to reinforce traditional Asian ideas of duty and morality [S1][S2].",
+      "correct_abstain": true,
+      "hit": true,
+      "citations_ok": true,
+      "supported": true
+    },
+    {
+      "id": 10,
+      "type": "in_corpus",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "When I first set out to build a fledgling nation out of a swamp of poverty, disease and communal strife, the People’s Action Party had to articulate a set of values that could bind a people of many races, languages and religions into a single, forward‑looking community.  Those values were not abstract slogans; they were the very scaffolding upon which we erected Singapore’s institutions, our schools, our civil service and, ultimately, our sense of self.\n\n**1. Multiracialism and Social Harmony**  \nWe made it clear that no single race could dominate the political arena.  The Constitution enshrines equal rights for all, and the “Malay, Chinese, Indian, Others” (MCIO) framework became the language of policy.  By insisting on a common civic identity—Singaporean first, ethnic identity second—we created a shared destiny that transcended communal loyalties.\n\n**2. Meritocracy**  \nFrom the very first civil service examinations to the modern Public Service Commission, we insisted that talent, not patronage, be the currency of advancement.  In schools, in the bureaucracy, in the private sector, the principle was simple: *you earn your place by ability and effort*.  This gave every Singaporean, regardless of background, a clear pathway to success and reinforced the belief that the nation rewards hard work.\n\n**3. Pragmatism and Economic Self‑Reliance**  \nWe taught that ideas must be tested against reality.  The “pragmatic” approach—“do what works” rather than what ideology dictates—became a national credo.  It drove us to attract foreign investment, to develop a world‑class port, to nurture a manufacturing base, and later to pivot to high‑technology and services.  Economic self‑reliance, not dependence on any single partner, was the engine of national confidence.\n\n**4. Discipline and the Rule of Law**  \nA clean, orderly society is a productive society.  We instituted strict laws on litter, vandalism, drug abuse and corruption, and we enforced them consistently.  The rule of law, applied equally to all, gave citizens the certainty that the system would not be arbitrarily bent for personal gain.\n\n**5. Integrity and Anti‑Corruption** – “Zero Tolerance”  \nCorruption is a cancer that eats away at trust.  By establishing the Corrupt Practices Investigation Bureau with full powers and by making public service a vocation of honour, we cultivated a culture where graft is socially unacceptable and professionally career‑ending.\n\n**6. Bilingualism and Education for Nation‑Building**  \nEvery child learns English—the lingua franca of commerce and global engagement—while also mastering a Mother Tongue that preserves cultural heritage.  This dual‑language policy reinforced both our global outlook and our respect for each community’s roots.\n\n**7. Community Responsibility and Volunteerism**  \nThrough the People’s Association, the National Service scheme, and later the “Community Involvement” programmes, we inculcated the idea that each citizen owes a duty to the collective.  When we all pitch in—whether in defence, in neighbourhood clean‑ups, or in caring for the elderly—the nation becomes stronger.\n\n**8. Forward‑Looking Optimism**  \nFinally, we fostered a belief that Singapore’s future is not predetermined by its size or its lack of natural resources, but by the resolve of its people.  “We are a small nation with big ambitions,” became a rallying cry that encouraged risk‑taking, innovation and a willingness to reinvent ourselves.\n\nThese eight pillars—multiracial harmony, meritocracy, pragmatism, discipline, integrity, bilingualism, community responsibility, and optimism—were the national values the PAP promoted to forge a cohesive identity.  They were not merely words on a banner; they were the standards by which we measured ourselves, and they remain the compass that still guides Singapore today.",
+      "correct_abstain": true,
+      "supported": false
+    },
+    {
+      "id": 11,
+      "type": "in_corpus",
+      "mode": "rag",
+      "abstained": false,
+      "answer": "Singapore’s education framework recognises madrasahs as full‑time schools that blend Islamic religious instruction with the mainstream curriculum.  Six madrasahs – four co‑educational and two for girls – teach the same secular subjects as other schools and sit their pupils for the PSLE and GCE ‘O’ Levels, just as their peers do【S1】.  They are therefore part of the national system, subject to the Compulsory Education Act and to the Ministry of Education’s expectations that they provide basic academic skills such as mathematics, science and English【S1】.  While they retain distinctive Malay uniforms and a focus on religious studies, they must comply with the same examination standards and, increasingly, with regulatory reforms aimed at improving funding, curricula and teaching methods【S2】.  In this way the system accommodates Islamic schools by integrating them into the broader educational landscape while preserving their religious character.",
+      "correct_abstain": true,
+      "hit": true,
+      "citations_ok": false,
+      "supported": false
+    },
+    {
+      "id": 11,
+      "type": "in_corpus",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "When I first set about building a nation on a tiny island, I made it clear that the social contract must be underpinned by a common set of values – merit, hard work, and a shared commitment to the future of Singapore. At the same time, I recognised that Singapore is a multiracial, multireligious society, and that the state could not succeed if it tried to erase the legitimate aspirations of any community.\n\nIslamic schools – the madrasahs – are therefore accommodated within the national education framework, not as an after‑thought, but as an integral part of the whole system. Let me explain how this works, point by point:\n\n1. **Regulatory Oversight**  \n   All schools, whether secular or religious, fall under the purview of the Ministry of Education (MOE). The madrasahs are also overseen by the Majlis Ugama Islam Singapura (MUIS), the Islamic Religious Council. This dual oversight ensures that the religious curriculum is authentic while the secular curriculum meets national standards.\n\n2. **Curriculum Balance**  \n   A madrasah must teach the core subjects mandated by the MOE – English, Mathematics, Science and Mother‑Tongue (Arabic, in the case of many Islamic schools). These are taught to the same level as in mainstream schools, because we expect every Singaporean to be able to contribute productively to the economy.  \n   Parallel to this, the madrasah delivers a robust Islamic studies programme – Qur’an, Hadith, Fiqh and Arabic language – which is supervised by MUIS. The two strands run side by side, not in competition.\n\n3. **Funding and Support**  \n   The government provides capital and operational grants to madrasahs on the same basis as other schools, subject to compliance with the curriculum and performance standards. In addition, MUIS runs a Madrasa Development Fund to support teacher training, infrastructure and the adoption of ICT. The principle is simple: if a school meets the national benchmarks, it receives the same support, irrespective of its religious character.\n\n4. **Teacher Qualification**  \n   Teachers of secular subjects in madrasahs must be MOE‑certified, just as in any other school. For Islamic subjects, teachers are required to be accredited by MUIS. This dual‑qualification system ensures that students receive professional instruction in both realms.\n\n5. **Pathways for Graduates**  \n   Madrasah students sit for the same national examinations (PSLE, GCE O‑Levels, A‑Levels) as their peers in mainstream schools. Those who excel can progress to junior colleges, polytechnics or universities, just as any other Singaporean. We have seen a growing number of madrasah graduates entering the civil service, the private sector and even the armed forces – a testament to the success of this integration.\n\n6. **Social Cohesion Measures**  \n   While madrasahs retain their distinct identity, they also participate in inter‑school activities – sports, debates, community service – fostering interaction with students of other backgrounds. This is essential to the “Singaporean identity” that binds us all together.\n\n7. **Continuous Review**  \n   The education landscape is not static. The MOE and MUIS jointly review the madrasa curriculum every few years to ensure relevance, especially in the face of technological change and the evolving needs of the economy. Adjustments are made, but always with the principle that religious instruction should not compromise the acquisition of skills needed for the modern world.\n\nIn short, the accommodation of Islamic schools is a pragmatic blend of respect for religious tradition and unwavering commitment to national standards. By insisting that every child – whether in a mainstream school or a madrasah – master English, mathematics and science, we safeguard meritocracy. By allowing the madrasah to teach authentic Islamic knowledge, we honour the cultural and religious rights of the Muslim community. The result is a system where diversity is not a liability but a strength, and where every Singaporean, regardless of the school they attend, can contribute to the collective progress of our nation.",
+      "correct_abstain": true,
+      "supported": false
+    },
+    {
+      "id": 12,
+      "type": "in_corpus",
+      "mode": "rag",
+      "abstained": false,
+      "answer": "I have always believed that a truly democratic legislature must allow its members to argue in the languages of the people they represent. When I first entered politics I even put forward a proposal for a multilingual debate in the Assembly, hoping that opponents would meet me in kind [S2]. However, that invitation was ignored, and I was forced to confront my own linguistic limits. At the time I could not speak Chinese fluently, a shortcoming that my political rivals used against me. With intensive coaching I eventually delivered my maiden Chinese speech, proving that I was willing to learn the language of a large segment of the electorate [S3]. Thus, my attitude was that multilingualism was essential for open debate, and I was prepared to acquire the necessary language skills to make it a reality.",
+      "correct_abstain": true,
+      "hit": true,
+      "citations_ok": true,
+      "supported": false
+    },
+    {
+      "id": 12,
+      "type": "in_corpus",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "When I first entered the political arena, Singapore was a patchwork of dialects, languages and cultures.  The very survival of the fledgling nation depended on a common medium of communication, and that medium was English.  It was not a matter of favouring one tongue over another; it was a pragmatic decision.  English gave us a bridge to the world, a tool for trade, for science, for the rule of law, and, most importantly, a neutral lingua‑franca that could bind together a people whose mother‑tongues ranged from Hokkien and Cantonese to Tamil, Malay and Mandarin.\n\nThat said, I have always been a staunch advocate of the “mother‑tongue” policy.  Every Singaporean, regardless of race, should be fluent in his or her own ethnic language – Mandarin for the Chinese, Malay for the Malays, Tamil for the Indians – because language is the carrier of culture, values and identity.  In schools we made it compulsory for each child to learn English and his or her designated mother‑tongue.  The aim was not to create linguistic silos but to produce a bilingual citizenry: one who could speak to the world and one who could speak to his own heritage.\n\nParliament, however, is a different arena.  It is the crucible where policies are forged, where the nation’s future is debated, and where clarity and efficiency are paramount.  For that reason I insisted that the official language of parliamentary business be English.  The record must be clear, the arguments must be understood by all members, and the public must be able to follow the proceedings without the need for simultaneous translation in every language.  I did not forbid a member from quoting a Chinese proverb or a Malay saying – indeed, such references enrich the debate – but the substantive speech had to be delivered in English, with translation provided where necessary.\n\nIn short, my attitude was simple: **English for the business of governing, mother‑tongue for the preservation of culture**.  Multilingualism is a strength, but in the chambers of Parliament it must be channelled through a common language so that debate remains focused, transparent and effective.  That balance, I believed, was essential to the nation‑building project that Singapore embarked upon.",
+      "correct_abstain": true,
+      "supported": false
+    },
+    {
+      "id": 13,
+      "type": "opinion",
+      "mode": "rag",
+      "abstained": false,
+      "answer": "In my experience, a newly‑independent state that must survive and prosper first needs a decisive, centrally coordinated government rather than a full‑blown Western liberal democracy.  I have often said that “Singapore would be better off without Western‑style liberal democracy” because the priority was rapid industrialisation, social cohesion and security [S4].  The early years of our administration therefore focused on firm measures: conscription, strict control of vice, aggressive attraction of foreign investment, and the creation of a Total Defence framework that covered economic, civil and psychological fronts [S1][S2][S3].  \n\nCritics, however, point out that such an approach can appear elitist and semi‑authoritarian, arguing that it limits broader participation and checks on power [S4].  The debate remains open, but the historical record shows that, for Singapore, a strong, technocratic government delivered the stability and growth that a fledgling nation needed.",
+      "correct_abstain": true,
+      "hit": null,
+      "citations_ok": true,
+      "supported": true
+    },
+    {
+      "id": 13,
+      "type": "opinion",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "I have always believed that the primary task of a fledgling nation is to survive, to lay down the foundations of prosperity, and to create a society in which its people can live with dignity. In that early, critical period, a strong, decisive government is indispensable.\n\nWhen Singapore was a tiny, resource‑poor island in the 1960s, we did not have the luxury of waiting for a fully fledged democratic process to sort out every policy question. We needed to make swift, sometimes unpopular, decisions on housing, education, infrastructure, and the rule of law. A capable bureaucracy, led by a clear vision, could act without the paralysis that endless debate can produce.\n\nThat is not to say that democracy is a luxury we should forever shun. A government that is unaccountable, that hides behind the veil of “strong leadership” while ignoring the aspirations of its people, will eventually lose legitimacy. The challenge is to balance authority with accountability, to build institutions that are transparent, merit‑based, and responsive even as they retain the capacity to act decisively.\n\nThus, for a new nation, the priority is a strong, competent government that can deliver results and establish the rule of law. As those foundations solidify, the political system can be gradually opened, allowing greater participation, checks and balances, and the kind of democratic culture that sustains long‑term stability. In short: start with strength, temper it with integrity, and evolve toward democracy when the nation is ready to bear it.",
+      "correct_abstain": true,
+      "supported": false
+    },
+    {
+      "id": 14,
+      "type": "opinion",
+      "mode": "rag",
+      "abstained": false,
+      "answer": "In my view, a nation must treat racial and religious differences not as obstacles but as elements of a shared civic identity. The state should actively promote tolerance and harmony, making it clear that any speech or activity that threatens peace—such as proselytising that inflames communal sensitivities—can be restrained by law [ S1 ]. We must embed multiracialism and meritocracy in public policy, ensuring that every citizen, regardless of background, sees the same opportunities and responsibilities.  \n\nTo give this principle a concrete framework, the PAP introduced a set of “Shared Values” that place the nation above any single community, stress family as the basic unit, and demand consensus rather than contention, with explicit emphasis on racial and religious harmony [ S3 ]. When the government signals that these values are non‑negotiable, and backs them with consistent, transparent enforcement, the society learns to respect differences while uniting around common goals.  \n\nThus, the pragmatic approach is: define clear, inclusive national values; educate citizens about them; and apply the law impartially to curb actions that could spark division. [ S1 ][ S3 ]",
+      "correct_abstain": true,
+      "hit": null,
+      "citations_ok": false,
+      "supported": false
+    },
+    {
+      "id": 14,
+      "type": "opinion",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "I have always believed that a nation’s strength lies not in the uniformity of its people, but in the disciplined harmony of its diversity. When I set out to build Singapore, the challenge was not to erase the differences of race, language, or faith, but to manage them in a way that served the common good.\n\nFirst, the state must be unequivocal in its commitment to **equality before the law**. No one, regardless of colour or creed, may enjoy privileges that the law does not grant to others. This principle is the bedrock of trust; when citizens see that the courts and the civil service treat them impartially, they are more willing to accept the constraints that a multi‑ethnic society inevitably imposes.\n\nSecond, **meritocracy** must be the engine of opportunity. By rewarding ability and effort rather than ancestry, we give every child—whether Chinese, Malay, Indian, or any other—an incentive to contribute productively. In practice this means transparent recruitment, rigorous examinations, and a public education system that offers the same quality to all, while also respecting the cultural sensitivities of each community.\n\nThird, **shared national symbols and narratives** are essential. A flag, a national anthem, a common language for official business—these are not tools of assimilation but of unity. They remind us that, despite our differences, we belong to the same polity and share the same destiny. In Singapore we adopted English as the lingua franca for administration and commerce, while allowing mother‑tongues to flourish in schools and at home.\n\nFourth, **institutional safeguards** must be built into the fabric of governance. In my time we introduced the Group Representation Constituency (GRC) system, not to entrench any group, but to ensure that minority voices are present in Parliament. Likewise, we created the Presidential Council for Minority Rights to review legislation that might affect any community adversely. Such mechanisms are not perfect, but they provide a constitutional safety net that reassures minorities they will not be trampled by the majority.\n\nFifth, **civic education** must inculcate a sense of responsibility toward one another. It is not enough to tolerate differences; citizens must learn that the well‑being of their neighbour is intertwined with their own. Programs that bring youths of different backgrounds together—through national service, community projects, or school activities—forge personal bonds that transcend abstract categories.\n\nFinally, the government must be **firm but fair** when tensions arise. A heavy‑handed approach that suppresses speech indiscriminately breeds resentment; a laissez‑faire attitude that allows hate to fester endangers peace. The law must be applied consistently, and any incitement to violence or discrimination must be dealt with swiftly, while at the same time providing avenues for legitimate grievances to be aired and resolved.\n\nIn sum, a country should handle racial and religious differences by:\n\n1. Enforcing the rule of law equally for all.  \n2. Practising meritocracy to give every individual a fair chance.  \n3. Cultivating shared symbols and a common lingua‑franca.  \n4. Embedding constitutional safeguards for minorities.  \n5. Promoting civic education that stresses mutual responsibility.  \n6. Acting decisively yet judiciously when discord threatens cohesion.\n\nWhen these pillars are firmly in place, diversity becomes a source of strength rather than a source of division. That is the pragmatic, long‑term approach that has served Singapore, and it is a model any nation can adapt to its own circumstances.",
+      "correct_abstain": true,
+      "supported": false
+    },
+    {
+      "id": 15,
+      "type": "opinion",
+      "mode": "rag",
+      "abstained": true,
+      "answer": "[NO SOURCE] The material provided does not address the question of what makes a good leader. It describes institutional facts such as the creation of the Leader of the Opposition after the 2020 election, the legislative process for bills, constitutional provisions, and internal succession dynamics within the People’s Action Party, including the confidence of the “old guard” in their “rectitude” and the transition of leadership from Lee Kuan Yew to Goh Chok Tong and later to Lee Hsien Loong. It also recounts Lee’s early role as Leader of the Opposition in the 1950s and his involvement in a 1955 strike. These passages focus on historical and procedural details rather than outlining leadership qualities.",
+      "correct_abstain": false,
+      "hit": null,
+      "citations_ok": true
+    },
+    {
+      "id": 15,
+      "type": "opinion",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "A good leader, in my experience, is a blend of vision, discipline, and humility—anchored in an unwavering commitment to the people he serves.\n\nFirst, **vision**. A leader must see beyond the present, charting a course that others cannot yet imagine. When I arrived in a fledgling Singapore, the island was riddled with unemployment, housing shortages, and communal tensions. I could not be content with merely maintaining the status quo; I had to envision a clean, efficient, and prosperous city‑state that could stand on its own feet. A clear, long‑term vision gives purpose to every policy and galvanises the nation.\n\nSecond, **discipline and pragmatism**. Ideals without execution are empty. I learned early that ideas must be tested against reality. Whether it was the rigorous anti‑corruption drive, the establishment of a meritocratic civil service, or the relentless pursuit of foreign investment, each step required strict adherence to standards and the willingness to make hard choices—sometimes unpopular, but always necessary for the greater good.\n\nThird, **integrity and moral authority**. A leader’s word must be his bond. Corruption erodes trust faster than any external threat. By insisting on transparency and holding even senior officials to the same rules, I sought to create a culture where the public could rely on the government’s honesty. When people trust their leaders, they are more willing to endure short‑term sacrifices for long‑term gains.\n\nFourth, **meritocracy and talent cultivation**. No leader can succeed alone. I made it a point to recruit the brightest minds, regardless of background, and to give them the freedom—and responsibility—to innovate. The success of Singapore’s education system, its public housing programme, and its economic diversification all stem from empowering capable individuals and rewarding performance.\n\nFifth, **communication and empathy**. A leader must listen as much as he speaks. Understanding the concerns of ordinary citizens—whether a hawker worried about rent or a factory worker fearing job loss—allows policies to be tailored and accepted. Yet empathy does not mean pandering; it means translating those concerns into decisive action.\n\nFinally, **resilience**. The path of nation‑building is strewn with setbacks—economic downturns, geopolitical shifts, internal dissent. A leader must remain steadfast, learn from failures, and adapt without losing sight of the overarching goal.\n\nIn sum, a good leader is a visionary pragmatist of unassailable integrity, who builds institutions, nurtures talent, communicates earnestly, and endures with resolve. It is not the title that makes the leader, but the relentless pursuit of the nation’s welfare above all else.",
+      "correct_abstain": true,
+      "supported": false
+    },
+    {
+      "id": 16,
+      "type": "out_of_scope",
+      "mode": "rag",
+      "abstained": true,
+      "answer": "[NO SOURCE] The passages supplied contain no reference to ChatGPT, large language models, or any comparable modern artificial‑intelligence technologies. They focus on Lee Kuan Yew’s views about leadership, governance, the role of the state, and his reflections on education and social policy. Consequently, I cannot provide a documented opinion from him on this subject.",
+      "correct_abstain": true,
+      "hit": null,
+      "citations_ok": true
+    },
+    {
+      "id": 16,
+      "type": "out_of_scope",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "I have always believed that a nation’s progress depends not on the tools it possesses, but on the wisdom of the people who wield them. In that sense, ChatGPT and the family of large‑language models are remarkable inventions – they are the latest expression of the same spirit of ingenuity that turned a small trading port into a thriving metropolis.\n\nFrom a pragmatic point of view, these models can be of great service. They can help our students practice language, assist civil servants in drafting clear policies, and even speed up the analysis of data that would otherwise take weeks to sift through. In a world where information travels at the speed of light, a well‑trained language model can be a useful aide‑de‑camp for anyone who must make decisions quickly and accurately.\n\nBut I would also caution against the naïve belief that technology can replace judgment. A model learns from the text it is fed; it has no sense of purpose, no moral compass, and no accountability. In Singapore we have always stressed that the rule of law, a meritocratic civil service, and a culture of responsibility are the foundations of good governance. No algorithm, however sophisticated, can substitute for those pillars.\n\nTherefore, I would say: embrace the potential of large‑language models, but do so with the same discipline we applied to every other innovation – from the construction of our first housing estates to the development of our digital infrastructure. Set clear standards, ensure transparency, and keep human oversight at the centre. If we can do that, tools like ChatGPT will be another asset in the nation‑building toolbox, not a substitute for the hard work and integrity of our people.",
+      "correct_abstain": false,
+      "supported": false
+    },
+    {
+      "id": 17,
+      "type": "out_of_scope",
+      "mode": "rag",
+      "abstained": true,
+      "answer": "[NO SOURCE] The supplied passages do not contain any information about the 2022 FIFA World Cup or its winner. They discuss Singapore’s economy, politics, and education system, but not international football events.",
+      "correct_abstain": true,
+      "hit": null,
+      "citations_ok": true
+    },
+    {
+      "id": 17,
+      "type": "out_of_scope",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "I recall, with the same keen interest that one applies to any global event, that the 2022 FIFA World Cup was won by Argentina.  Their side, led by Lionel Messi, triumphed in a dramatic final against France, prevailing 4‑2 on penalties after a 3‑3 draw in regular and extra time.  It was a fitting climax to a tournament that captured the imagination of the world, much as the achievements of a small nation can capture the imagination of its people when we, too, strive for excellence.",
+      "correct_abstain": false,
+      "supported": false
+    },
+    {
+      "id": 18,
+      "type": "out_of_scope",
+      "mode": "rag",
+      "abstained": true,
+      "answer": "[NO SOURCE] The material provided does not discuss the 2024 United States presidential election, so I cannot comment on it. The passages do note that the United States has been a major source of foreign investment in Singapore’s manufacturing sector, accounting for about 40 % of new commitments in 2000 and hosting more than 1,500 firms here [S1]. If you have questions about Singapore’s economy, politics, or related historical matters, I can address those.",
+      "correct_abstain": true,
+      "hit": null,
+      "citations_ok": true
+    },
+    {
+      "id": 18,
+      "type": "out_of_scope",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "I have always regarded the United States as the principal architect of the post‑war international order, and therefore I watch its elections with a mixture of professional interest and sober caution.  \n\nThe 2024 presidential contest is, in many respects, a litmus test of the resilience of American democratic institutions.  The United States has long been able to absorb sharp partisan divisions because its system is built on a deep‑seated respect for the rule of law, a professional civil service, and a culture that, however imperfectly, values merit over patronage.  If those foundations hold firm, the outcome—whatever the winner—will not upend the basic architecture of the liberal world order that has underpinned global stability for the past seven decades.\n\nWhat concerns me more than the personalities of the candidates is the trajectory of policy.  A United States that retreats from its commitments, or that allows domestic turbulence to spill over into its foreign policy, will create a vacuum that could be filled by less predictable actors.  Conversely, a United States that recognises the limits of its power, embraces multilateralism, and continues to champion a rules‑based system will remain the indispensable anchor for smaller states such as Singapore.\n\nFrom Singapore’s perspective, we have always pursued a pragmatic foreign policy: we cooperate with the United States because it is a major source of security, technology and investment, but we also diversify our relationships to hedge against any single‑point failure.  The election outcome will therefore be watched closely, not as a matter of endorsement, but as an indicator of how stable and reliable the United States will be as a partner in the years ahead.\n\nIn short, the 2024 election is a reminder that even the most powerful democracy must constantly renew its commitment to good governance, accountability and the long‑term interests of its people.  If those principles endure, the United States will continue to play the constructive role that the world, and Singapore, have come to expect.",
+      "correct_abstain": false,
+      "supported": false
+    },
+    {
+      "id": 19,
+      "type": "out_of_scope",
+      "mode": "rag",
+      "abstained": true,
+      "answer": "[NO SOURCE] The provided passages contain no reference to cryptocurrency or to any statements by Lee Kuan Yew on that subject. They discuss his views on governance, national defence, economic policy, and social control, but do not address digital currencies. Consequently I cannot offer an advice grounded in the supplied material.",
+      "correct_abstain": true,
+      "hit": null,
+      "citations_ok": true
+    },
+    {
+      "id": 19,
+      "type": "out_of_scope",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "I would say, first and foremost, that any nation’s prosperity rests on the twin pillars of innovation and prudence. The emergence of cryptocurrency is a vivid illustration of the former – a novel application of cryptographic technology that promises to reshape the way value is transferred and recorded. Yet, as with every disruptive invention, it carries with it a set of risks that cannot be ignored.\n\n**1. Embrace the technology, not the hype.**  \nThe underlying blockchain ledger is a powerful tool for transparency and efficiency. Singapore, for example, has chosen to become a laboratory for fintech, encouraging research and development while keeping a vigilant eye on the systemic implications. I would advise you to look beyond the price‑volatility of the tokens themselves and consider how the infrastructure can be harnessed for legitimate commerce, supply‑chain management, and even public‑sector services.\n\n**2. Insist on a robust regulatory framework.**  \nA free market without rules is a market that soon collapses under the weight of fraud, money‑laundering, and destabilising speculation. The Monetary Authority of Singapore (MAS) has taken a pragmatic stance: it registers and licences crypto‑asset service providers, imposes strict anti‑money‑laundering (AML) and know‑your‑customer (KYC) obligations, and requires clear disclosures to investors. Any prudent investor or entrepreneur should operate within such a regime, lest they expose themselves and the wider economy to unnecessary peril.\n\n**3. Guard against speculative excess.**  \nCryptocurrencies have attracted a wave of retail participants drawn by the allure of rapid riches. History teaches us that speculative bubbles, when they burst, leave lasting scars on households and on confidence in the financial system. I would counsel you to allocate only a modest portion of your portfolio to such assets – an amount you can afford to lose – and to base your decisions on fundamentals rather than on market euphoria.\n\n**4. Prioritise consumer protection and education.**  \nA well‑informed citizenry is the best defence against fraud. Governments should sponsor clear, unbiased education on the risks and mechanics of crypto‑assets, while also ensuring that service providers maintain high standards of security and transparency. In Singapore we have launched public‑awareness campaigns and set up a dedicated fintech hub to disseminate best practices.\n\n**5. Align with national strategic goals.**  \nFinally, consider how cryptocurrency and its associated technologies can serve broader national objectives – be it enhancing cross‑border payments, fostering a vibrant fintech ecosystem, or attracting high‑value talent. When the pursuit of innovation is tethered to a clear policy purpose, the benefits are magnified and the dangers are contained.\n\nIn sum, I would advise you to treat cryptocurrency as a promising but still embryonic technology: encourage its development within a clear, enforceable regulatory framework, educate and protect participants, and keep a disciplined, long‑term perspective on investment. By doing so, a nation can reap the advantages of the digital age without sacrificing the stability that underpins lasting prosperity.",
+      "correct_abstain": false,
+      "supported": false
+    },
+    {
+      "id": 20,
+      "type": "out_of_scope",
+      "mode": "rag",
+      "abstained": true,
+      "answer": "[NO SOURCE] The passages supplied discuss Lee Kuan Yew’s reflections on Singapore’s politics, governance, defence, and personal anecdotes, but they contain no reference to Elon Musk or any plans to colonise Mars. Consequently, I have no source‑based material here to comment on that topic. The available sources do cover Lee’s views on leadership, the role of the state, and his own nation‑building experience, which are unrelated to interplanetary colonisation.",
+      "correct_abstain": true,
+      "hit": null,
+      "citations_ok": true
+    },
+    {
+      "id": 20,
+      "type": "out_of_scope",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "I have always believed that a nation’s destiny is forged not by fanciful dreams but by disciplined, pragmatic action. The ambition to send humans to Mars is, in that sense, a bold vision—one that captures the imagination of a species that has long looked to the heavens for inspiration. Yet, as I have often reminded my compatriots, “If you want to achieve greatness, you must first master the fundamentals.”\n\nSingapore’s own story is a testament to the power of incremental progress. We did not become a thriving metropolis overnight; we built a solid foundation—sound institutions, a reliable legal framework, a disciplined civil service, and an economy rooted in trade and innovation. Only after those pillars were firmly in place could we contemplate grander projects, such as the development of a world‑class financial hub or the pursuit of advanced biotechnology.\n\nElon Musk’s plans for Mars share the same audacity that once inspired the great explorers of the past, but they also raise several practical questions that any serious nation‑builder must confront:\n\n1. **Economic Viability** – The cost of establishing a self‑sustaining colony on another planet will be astronomical. In Singapore we have always asked, “What is the return on investment for the people?” A venture of this magnitude must demonstrate not merely a technological triumph but a clear, sustainable economic rationale that benefits humanity at large.\n\n2. **Governance and Rule of Law** – A settlement on Mars will inevitably require a system of governance. Our experience shows that without a robust legal framework and transparent institutions, even the most advanced societies can descend into disorder. The question is: what principles will guide a Martian community? Will they be rooted in the same rule‑of‑law values that have underpinned Singapore’s stability?\n\n3. **Human Capital** – The success of any pioneering endeavour rests on the quality of its people. We invested heavily in education, meritocracy, and the cultivation of talent. For a Mars colony to thrive, it will need a cadre of engineers, scientists, doctors, and administrators who are not only technically proficient but also resilient and adaptable.\n\n4. **Strategic Priorities** – While the allure of interplanetary colonisation is undeniable, governments must balance such aspirations against pressing terrestrial needs—healthcare, housing, climate resilience, and social cohesion. The temptation to allocate disproportionate resources to a distant dream must be resisted unless it does not compromise the well‑being of the present generation.\n\nIn short, I commend the spirit of innovation that drives Mr. Musk and his team. Humanity must continue to push the boundaries of what is possible; otherwise we stagnate. Yet I would counsel a measured approach: first master the fundamentals here on Earth, ensure that the venture is underpinned by sound economics, robust governance, and a well‑trained workforce, and only then extend the reach of our civilization to the Red Planet.\n\nIf we can apply the same discipline that transformed a tiny trading post into a global city‑state, perhaps one day a modest, well‑governed outpost on Mars will not be a fantasy but a responsible extension of human endeavour. Until then, let us focus on building a world where the benefits of such grand projects can be shared by all, not merely by a few.",
+      "correct_abstain": false,
+      "supported": false
+    },
+    {
+      "id": 21,
+      "type": "out_of_scope",
+      "mode": "rag",
+      "abstained": true,
+      "answer": "[NO SOURCE] The passages supplied discuss Singapore’s bilingual education policy, the structure of its school system, and some quoted remarks by Lee Kuan Yew, but they contain no information on learning the Python programming language or any related advice.",
+      "correct_abstain": true,
+      "hit": null,
+      "citations_ok": true
+    },
+    {
+      "id": 21,
+      "type": "out_of_scope",
+      "mode": "baseline",
+      "abstained": false,
+      "answer": "When I set about building a nation, I never relied on shortcuts; I laid a solid foundation, recruited the right people, and pursued a relentless programme of learning and improvement. The same disciplined approach applies to mastering any new skill, including the Python programming language.\n\n**1. Begin with a clear vision and a solid foundation**  \nJust as Singapore’s early planners began with a master plan, you should start by understanding what Python is and why you wish to learn it. Read the official Python documentation’s introductory sections and a reputable beginner’s book (for example, *Automate the Boring Stuff with Python*). Grasp the core concepts—variables, data types, control structures, functions, and modules—before moving on to more sophisticated topics.\n\n**2. Adopt a systematic curriculum**  \nIn governance we broke down grand projects into manageable phases. Likewise, divide your learning into stages:\n\n| Phase | Focus | Suggested Resources |\n|-------|-------|----------------------|\n| **Phase 1** | Syntax, basic data structures (lists, dictionaries, sets) | Python.org tutorial, “Python Crash Course” |\n| **Phase 2** | Functions, error handling, file I/O | “Effective Python” (first half) |\n| **Phase 3** | Object‑oriented programming, standard library | “Fluent Python” (chapters on OOP) |\n| **Phase 4** | Testing, virtual environments, packaging | “Python Testing with pytest” |\n| **Phase 5** | Real‑world libraries (requests, pandas, Flask/Django) | Official docs, project‑based tutorials |\n\n**3. Practice relentlessly—learning by doing**  \nA nation does not prosper by theory alone; it thrives on execution. Write code every day. Start with small scripts that automate a personal task, then progress to larger projects such as a web scraper, a data‑analysis notebook, or a simple web application. The act of solving concrete problems cements the concepts you have read about.\n\n**4. Seek mentorship and community**  \nNo leader succeeds in isolation. Join Python communities—Stack Overflow, Reddit’s r/learnpython, local meet‑ups, or online courses with active forums (Coursera, edX, Udemy). When you encounter a roadblock, ask clear, specific questions; the responses you receive will sharpen both your technical skill and your ability to articulate problems—an essential trait for any leader.\n\n**5. Embrace disciplined review and iteration**  \nJust as we periodically reviewed policies and adjusted them, regularly revisit your earlier code. Refactor it using best practices, add unit tests, and compare it against newer, more idiomatic solutions. This habit of continuous improvement will deepen your understanding and keep you abreast of evolving Python conventions.\n\n**6. Apply Python to a domain you care about**  \nIn nation‑building, relevance fuels motivation. Identify an area—finance, education, health, or even civic data—and apply Python to solve a real need there. The sense of purpose will sustain your learning momentum far better than abstract exercises.\n\n**7. Document your journey**  \nMaintain a learning journal or a public blog. Writing about what you have learned forces you to organise your thoughts, and the record becomes a valuable reference for future projects, just as our policy papers guided successive administrations.\n\nIn summary, the best way to learn Python is to combine a clear strategic plan, disciplined study of fundamentals, relentless hands‑on practice, engagement with a supportive community, and continual refinement of your work. Approach it as you would any nation‑building endeavour: with vision, rigor, and an unwavering commitment to improvement.",
+      "correct_abstain": false,
+      "supported": false
+    }
+  ]
+}

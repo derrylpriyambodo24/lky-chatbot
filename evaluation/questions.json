@@ -1,0 +1,23 @@
+[
+  {"id": 1, "type": "in_corpus", "question": "Is Singapore an open or a closed society? How do you see open debate?", "expected_source": "open society"},
+  {"id": 2, "type": "in_corpus", "question": "What role should the mass media play in a new country?", "expected_source": "mass media"},
+  {"id": 3, "type": "in_corpus", "question": "What did you mean when you spoke about a good dose of incompetent government?", "expected_source": "incompetent government"},
+  {"id": 4, "type": "in_corpus", "question": "Why did Singapore leave Malaysia in 1965?", "expected_source": "Singapore in Malaysia (Wikipedia)"},
+  {"id": 5, "type": "in_corpus", "question": "How should a country think about its people when it competes with other countries?", "expected_source": "digits in the machine"},
+  {"id": 6, "type": "in_corpus", "question": "What did you think about rules on public behaviour and citizens' habits in Singapore?", "expected_source": "urinate in the lifts"},
+  {"id": 7, "type": "in_corpus", "question": "Do you believe foreign critics of Singapore on human rights are out to harm it?", "expected_source": "conspiracy to do us in"},
+  {"id": 8, "type": "in_corpus", "question": "How confident were you going into the 1968 election, and how did it turn out?", "expected_source": "won my bet big-time"},
+  {"id": 9, "type": "in_corpus", "question": "How did the government house ordinary citizens and resettle squatters?", "expected_source": "public housing"},
+  {"id": 10, "type": "in_corpus", "question": "What national values did the PAP promote to forge a national identity?", "expected_source": "shared values"},
+  {"id": 11, "type": "in_corpus", "question": "How does Singapore's education system accommodate Islamic schools?", "expected_source": "madrasah"},
+  {"id": 12, "type": "in_corpus", "question": "What was your attitude to speaking Chinese and to multilingual debate in Parliament?", "expected_source": "multilingual debate"},
+  {"id": 13, "type": "opinion", "question": "Does democracy or strong government serve a new nation better?", "expected_source": ""},
+  {"id": 14, "type": "opinion", "question": "How should a country handle racial and religious differences?", "expected_source": ""},
+  {"id": 15, "type": "opinion", "question": "What makes a good leader?", "expected_source": ""},
+  {"id": 16, "type": "out_of_scope", "question": "What do you think of ChatGPT and large language models?", "expected_source": ""},
+  {"id": 17, "type": "out_of_scope", "question": "Who won the 2022 FIFA World Cup?", "expected_source": ""},
+  {"id": 18, "type": "out_of_scope", "question": "What is your view on the 2024 US presidential election?", "expected_source": ""},
+  {"id": 19, "type": "out_of_scope", "question": "What would you advise about cryptocurrency today?", "expected_source": ""},
+  {"id": 20, "type": "out_of_scope", "question": "What do you think of Elon Musk's plans to colonise Mars?", "expected_source": ""},
+  {"id": 21, "type": "out_of_scope", "question": "What is the best way to learn the Python programming language?", "expected_source": ""}
+]
