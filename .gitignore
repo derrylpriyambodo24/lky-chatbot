@@ -6,3 +6,4 @@ __pycache__/
 *.zip
 data/raw/*
 !data/raw/.gitkeep
+evaluation/results_after_fix.json
