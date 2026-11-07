@@ -24,7 +24,8 @@ evaluation/       questions.json, run_eval.py, rejudge.py, metrics.py, results*.
 ```powershell
 pip install -r requirements.txt
 copy .env.example .env      # then fill in LLM_API_KEY
-streamlit run app.py
+python fetch_open_corpus.py   # downloads the corpus into data/raw/
+python -m streamlit run app.py
 ```
 
 Environment variables (`.env`):
